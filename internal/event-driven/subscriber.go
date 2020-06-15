@@ -2,8 +2,8 @@ package event_driven
 
 import (
 	"encoding/json"
-	"github.com/ProjectReferral/Get-me-in/queueing-api/client"
-	"github.com/ProjectReferral/Get-me-in/queueing-api/client/models"
+	"github.com/ProjectReferral/Get-me-in/util/client"
+	"github.com/ProjectReferral/Get-me-in/util/client/models"
 	"log"
 	"net/http"
 	"time"
