@@ -1,6 +1,6 @@
 package event_driven
 
-import "github.com/ProjectReferral/Get-me-in/queueing-api/client/models"
+import "github.com/ProjectReferral/Get-me-in/util/client/models"
 
 //we store all the new subscribers in this map
 type SubscriberStore struct {
