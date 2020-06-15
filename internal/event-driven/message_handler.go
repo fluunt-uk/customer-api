@@ -5,7 +5,7 @@ import (
 	"github.com/ProjectReferral/Get-me-in/customer-api/internal/service"
 	t "github.com/ProjectReferral/Get-me-in/customer-api/lib/hermes/templates"
 	"github.com/ProjectReferral/Get-me-in/customer-api/models"
-	"github.com/ProjectReferral/Get-me-in/utl/client"
+	"github.com/ProjectReferral/Get-me-in/util/client"
 	queue_models "github.com/ProjectReferral/Get-me-in/util/client/models"
 	"log"
 	"net/http"
