@@ -2,7 +2,7 @@ package email
 
 import (
 	event_driven "github.com/ProjectReferral/Get-me-in/customer-api/internal/event-driven"
-	"github.com/ProjectReferral/Get-me-in/queueing-api/client/models"
+	"github.com/ProjectReferral/Get-me-in/util/client/models"
 	"net/http"
 )
 
