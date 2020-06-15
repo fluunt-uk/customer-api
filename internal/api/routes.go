@@ -4,7 +4,7 @@ import (
 	"github.com/ProjectReferral/Get-me-in/customer-api/configs"
 	"github.com/ProjectReferral/Get-me-in/customer-api/internal/api/email"
 	event_driven "github.com/ProjectReferral/Get-me-in/customer-api/internal/event-driven"
-	"github.com/ProjectReferral/Get-me-in/queueing-api/client"
+	"github.com/ProjectReferral/Get-me-in/util/client"
 	"github.com/gorilla/mux"
 	"log"
 	"net/http"
