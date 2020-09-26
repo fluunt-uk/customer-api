@@ -5,7 +5,7 @@ var (
 
 	/*********** SMTP configs **********/
 	DevEmail = "project181219@gmail.com"
-	DevEmailPw = "kowbu1-nuQjik-zyxput"
+	DevEmailPw = ""
 	/*********************************************/
 )
 
