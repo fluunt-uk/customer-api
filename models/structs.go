@@ -39,13 +39,3 @@ type IncomingPaymentData struct {
 	Price 			int 				`json:"price"`
 }
 
-
-//{
-//"template":"reset-password",
-//"email":"sharjeel50@hotmail.co.uk",
-//"firstname":"Sharjeel",
-//"surname":"Jan",
-//"accesscode":"1234"
-//}
-
-
